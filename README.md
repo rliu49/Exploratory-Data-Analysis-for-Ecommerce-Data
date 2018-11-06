@@ -31,7 +31,6 @@
 
 # Traning dataset and Testing dataset
 
-## Linear Regression model coefficients
 
 ## Prediction using linear model (Testing data)
 
