@@ -2,7 +2,7 @@
 
 # Project Description:
 
-<img src="https://github.com/rliu49/Exploratory-Data-Analysis-for-Ecommerce-Data/blob/master/Imgs/Ecommerce%20framework.png" height="400" width="900">
+<img src="https://github.com/rliu49/Exploratory-Data-Analysis-for-Ecommerce-Data/blob/master/Imgs/Ecommerce%20framework.png" height="350" width="900">
 
 # Data Description
 
